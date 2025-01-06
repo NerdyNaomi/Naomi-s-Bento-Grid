@@ -18,7 +18,7 @@ html {
 
 body {
   width: minmax(var(--ColW), calc(var(--ColW) * 2 + var(--ColW) / 2));
-  background: rgb(23, 0, 35);
+  background: rgb(255, 255, 255);
   font-size: min(2vw, 1em);
 }
 
@@ -39,7 +39,7 @@ body {
   border: none;
   border-radius: 15px;
   background: hsl(256, 67%, 59%);
-  box-shadow: 5px 5px 10px 3px rgba(84, 50, 0, 0.5);
+  box-shadow: 5px 5px 10px 3px rgba(91, 73, 141, 0.5);
   overflow: hidden;
 }
 
